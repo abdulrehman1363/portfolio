@@ -4,9 +4,11 @@ import Home from './components/Home';
 import Footer from './components/Footer';
 import Experience from './components/Experience';
 
+const basename = process.env.NODE_ENV === 'production' ? '/portfolio' : '';
+
 const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={basename}>
       <Navbar/>
       <Routes>
         <Route path='/' element={<Home/>}/>
