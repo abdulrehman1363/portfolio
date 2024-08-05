@@ -11,9 +11,10 @@ import About from './components/About';
 import Contact from './components/Contact';
 import Projects from './components/Projects';
 
+const basename = process.env.NODE_ENV === 'production' ? '/portfolio' : '';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <BrowserRouter>
+  <BrowserRouter basename={basename}>
       <Navbar/>
       <Routes>
         <Route path='/' element={<Home/>}/>
