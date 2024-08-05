@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f16816b2.css",
-    "main.js": "/portfolio/static/js/main.dd36cf4c.js",
+    "main.js": "/portfolio/static/js/main.8db4ba6f.js",
     "static/js/592.59a3065e.chunk.js": "/portfolio/static/js/592.59a3065e.chunk.js",
     "static/media/teachingly.png": "/portfolio/static/media/teachingly.e037dbfc70484d31a85a.png",
     "static/media/coachingly.png": "/portfolio/static/media/coachingly.46a60c3cab1b3dcdb030.png",
@@ -9,11 +9,11 @@
     "static/media/udeo.jpg": "/portfolio/static/media/udeo.ecc12b82f1f6473ca815.jpg",
     "index.html": "/portfolio/index.html",
     "main.f16816b2.css.map": "/portfolio/static/css/main.f16816b2.css.map",
-    "main.dd36cf4c.js.map": "/portfolio/static/js/main.dd36cf4c.js.map",
+    "main.8db4ba6f.js.map": "/portfolio/static/js/main.8db4ba6f.js.map",
     "592.59a3065e.chunk.js.map": "/portfolio/static/js/592.59a3065e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f16816b2.css",
-    "static/js/main.dd36cf4c.js"
+    "static/js/main.8db4ba6f.js"
   ]
 }
